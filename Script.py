@@ -29,17 +29,13 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/h_k_Bots>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/h_k_Bots>ʀᴇᴩᴏ ʟɪɴᴋ</a>.</b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots
+    SOURCES_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>"""
 
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+    SOURCE_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots</b>
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots</b>
-
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>
-
-- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
