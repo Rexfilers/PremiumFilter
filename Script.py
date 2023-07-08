@@ -21,21 +21,21 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
-    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/h_k_Bots>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/h_k_Bots>HARMISH</a>
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/MOVIES_PROVIDE2>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Rexisop99>Rᴇx</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ﹤a href=https://t.me/h_k_Bots> ʜᴏsᴛɪɴɢ</a>
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/h_k_Bots>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/h_k_Bots>ʀᴇᴩᴏ ʟɪɴᴋ</a>.</b>"""
+📡 ʜᴏsᴛᴇᴅ ᴏɴ : ﹤a href=https://t.me/MOVIES_PROVIDE> ʜᴏsᴛɪɴɢ</a>
+📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/MOVIES_PROVIDE>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/MOVIES_PROVIDE>Cʜᴀɴɴᴇʟ Lɪɴᴋˣˢ</a>.</b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots
+    SOURCES_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @MOVIES_PROVIDE
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>"""
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rexisop99>Rᴇx</a>"""
 
-    SOURCE_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @h_k_Bots</b>
+    SOURCE_TXT = """Tʜɪs Is Pʀᴏᴊᴇᴄᴛ Bʏ @MOVIES_PROVIDE</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/h_k_Bots>HARMISH</a>"""
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Rexisop99>Rᴇx</a>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -69,7 +69,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/main_movie_hub>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/MOVIES_PROVIDE>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
