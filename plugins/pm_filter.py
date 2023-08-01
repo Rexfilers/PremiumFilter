@@ -1,3 +1,4 @@
+
 # Codeded By @Tamilan_BotsZ
 import asyncio
 import re
@@ -388,7 +389,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
             else:
                 g = short_url(f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await client.send_photo(chat_id=query.from_user.id, photo='https://graph.org/file/6d2da4b4a9dca4af63d8d.jpg', caption = f"<b>📕Nᴀᴍᴇ ➠ : <code>{files.file_name}</code> \n\n🔗Sɪᴢᴇ ➠ : {get_size(files.file_size)}</b>", 
+                await client.send_photo(chat_id=query.from_user.id, photo='https://telegra.ph/file/c5c06df8ca1d043155c11.jpg', caption = f"<b>📕Nᴀᴍᴇ ➠ : <code>{files.file_name}</code> \n\n🔗Sɪᴢᴇ ➠ : {get_size(files.file_size)}</b>", 
                                           reply_markup=InlineKeyboardMarkup(
             [
                 [
